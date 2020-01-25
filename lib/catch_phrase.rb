@@ -1,3 +1,3 @@
 def "#catch_phrase"
-  puts phrase= "it's-a me, mario!"
+  puts out a catch phrase= "it's-a me, mario!"
 end
